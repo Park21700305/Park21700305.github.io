@@ -14,8 +14,10 @@ last_modified_at: 2022-05-01T08:06:00-05:00
 > 
 > [한동대학교 hisnet](https://hisnet.handong.edu)
 
-*Handong Global University*
+> *Handong Global University*
+>
 > **Computer Science**
+> 
 > ***Park JiSung***
         
 
