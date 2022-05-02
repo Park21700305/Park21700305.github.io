@@ -14,9 +14,9 @@ last_modified_at: 2022-05-01T08:06:00-05:00
 > 
 > [한동대학교 hisnet](https://hisnet.handong.edu)
 
-* 강조와 기울임 *
-** 강조와 기울임 **
-*** 강조와 기울임 ***
+*Handong Global University*
+**Computer Science**
+***Park JiSung***
         
 
 
